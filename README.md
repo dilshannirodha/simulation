@@ -2,7 +2,7 @@
  project
 
  
-#maze drive game#
+#car simulation game#
 
 This is a simple car simulation, developed under computer graphics course.
 This helps to understand the graphics behavior and game making process.
