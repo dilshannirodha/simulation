@@ -27,4 +27,4 @@ It was build with Unity 2020.
 
 You can play with arrow keys.
 upward arrow for accelerate, downward for decelerate, left and right keys for steering the car.
-spacebar for break;
+spacebar for break and escape to pause the game;
